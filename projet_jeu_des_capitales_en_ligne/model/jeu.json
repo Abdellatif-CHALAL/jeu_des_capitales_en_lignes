@@ -1,0 +1,140 @@
+[
+    {
+        "type": "FeatureCollection",
+        "features": [
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates":  [36.775348, 3.060065]
+                },
+                "question" : "Quelle est la Capitale de l'Algerie ?",
+                "properties": {
+                    "pays" : {  "name" : "Algerie",
+                                "polygone" : "../model/countries/data/dza.geo.json",
+                                "flag" : "../model/countries/data/dza.svg",
+                                "surface" : "2382000"
+                             },
+                    "ville" : { "name": "Alger",
+                                "description": "Alger est la capitale de l'Algérie. Elle se trouve sur la côte méditerranéenne du pays. Elle est connue pour les bâtiments blanchis à la chaux de la Casbah, une médina dotée de rues escarpées et sinueuses, de palais ottomans et d'une citadelle en ruines.",
+                                "image": "../public/image/Alger.jpg"
+                              }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates":  [52.2319237, 21.0067265]
+                },
+                "question" : "Quelle est la Capitale de la Pologne ?",
+                "properties": {
+                    "pays" : {  "name" : "Pologne",
+                                "polygone" : "../model/countries/data/pol.geo.json",
+                                "flag" : "../model/countries/data/pol.svg",
+                                "surface" : "312679"
+                             },
+                    "ville" : { "name": "Varsovie",
+                                "description": "Varsovie est la capitale tentaculaire de la Pologne. Son architecture extrêmement variée reflète son long passé mouvementé, des églises gothiques et des palais néoclassiques aux blocs d'immeubles de l'ère soviétique et aux gratte-ciels modernes.",
+                                "image": "../public/image/Washington.jpg"
+                              }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [48.8566101,2.3514992]
+                },
+                "question" : "Quelle est la Capitale de la France ?",
+                "properties": {
+                    "pays" : {  "name" : "France",
+                                "polygone" : "../model/countries/data/fra.geo.json",
+                                "flag" : "../model/countries/data/fra.svg",
+                                "surface" : "643801"
+                             },
+                    "ville" : { "name": "Paris",
+                                "description": "Paris, capitale de la France, est une grande ville européenne et un centre mondial de l'art, de la mode, de la gastronomie et de la culture. Son paysage urbain du XIXe siècle est traversé par de larges boulevards et la Seine.",
+                                "image": "../public/image/Paris.jpg"
+                              }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [55.7504461, 37.6174943]
+                },
+                "question" : "Quelle est la Capitale de la Russie ?",
+                "properties": {
+                    "pays" : {  "name" : "Russia",
+                                "polygone" : "../model/countries/data/rus.geo.json",
+                                "flag" : "../model/countries/data/rus.svg",
+                                "surface" : "17100000"
+                             },
+                    "ville" : { "name": "Moscou",
+                                "description": "Moscou est la capitale de la Russie et compte douze millions d'habitants intra muros (2017) sur une superficie de 2 510 km2 ce qui en fait la ville la plus peuplée à la fois du pays et d'Europe.",
+                                "image": "../public/image/Moscu.jpg"
+                              }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates":  [38.8950712, -77.0362758]
+                },
+                "question" : "Quelle est la Capitale des États Unis ?",
+                "properties": {
+                    "pays" : {  "name" : "L'États Unis",
+                                "polygone" : "../model/countries/data/usa.geo.json",
+                                "flag" : "../model/countries/data/usa.svg",
+                                "surface" : "9834000"
+                             },
+                    "ville" : { "name": "Washington",
+                                "description": "Washington, la capitale des États-Unis, est une ville dense située sur les rives du Potomac, à la frontière des États du Maryland et de Virginie. Elle se caractérise par ses monuments et bâtiments néoclassiques imposants, dont ceux qui abritent les 3 branches du gouvernement fédéral : le Capitole, la Maison-Blanche et la Cour suprême.",
+                                "image": "../public/image/Washington.jpg"
+                              }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates":  [-35.2975906, 149.1012676]
+                },
+                "question" : "Quelle est la Capitale de l'Australie ?",
+                "properties": {
+                    "pays" : {  "name" : "Australie",
+                                "polygone" : "../model/countries/data/aus.geo.json",
+                                "flag" : "../model/countries/data/aus.svg",
+                                "surface" : "2382000"
+                             },
+                    "ville" : { "name": "Canberra",
+                                "description": "Sa capitale est Canberra, située dans le Territoire de la capitale australienne. Sa population, estimée à environ 24 millions d'habitants en 2016, est principalement concentrée dans les grandes villes côtières de Sydney, Melbourne, Brisbane, Perth et Adélaïde.",
+                                "image": "../public/image/Canberra.jpg"
+                              }
+                }
+            },
+            {
+                "type": "Feature",
+                "geometry": {
+                    "type": "Point",
+                    "coordinates":  [-10.3333333, -53.2]
+                },
+                "question" : "Quelle est la Capitale du Brésil ?",
+                "properties": {
+                    "pays" : {  "name" : "Brésil",
+                                "polygone" : "../model/countries/data/bra.geo.json",
+                                "flag" : "../model/countries/data/bra.svg",
+                                "surface" : "8516000"
+                             },
+                    "ville" : { "name": "Brasília",
+                                "description": "Le Brésil, vaste pays d'Amérique du Sud, s'étend du bassin amazonien au nord à des vignobles et aux chutes d'Iguaçu au sud. La ville de Rio de Janeiro, caractérisée par sa statue du Christ Rédempteur de 38 mètres de haut située au sommet du Corcovado, est réputée pour ses plages très fréquentées de Copacabana et d'Ipanema, ainsi que pour son énorme carnaval animé.",
+                                "image": "../public/image/Brasélia.jpg"
+                              }
+                }
+            }
+        ]
+    }
+]

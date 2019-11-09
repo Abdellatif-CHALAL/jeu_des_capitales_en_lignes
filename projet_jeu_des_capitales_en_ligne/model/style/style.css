@@ -1,0 +1,48 @@
+
+#div1{
+    width: 500px;
+    height: 570px;
+    
+}
+
+#div2{
+    width: 800px;
+    height: 570px;
+    
+}
+
+#maDiv{ 
+    width: 780px;
+    height: 500px;
+    
+}
+
+#div3{
+    width: 780px;
+    height: 55px;
+    
+}
+
+
+#div3 button{
+    margin-left: 350px;
+    margin-top: 5px;  
+}
+
+#bravo{
+    border-radius: 20px;
+}
+#img{
+    width : 200px ;
+    height : 180px;
+    float: right;
+}
+#description{
+    font-size: 0.9em;
+}
+#body1{
+    background-color:rgb(233, 150, 122);
+}
+#divHaut{
+    margin-top: 100px;
+}
